@@ -12,4 +12,4 @@ Save the helper files in your preffered directory.Try it with any dataset consis
 *Nvidia GPU (Not complusory but it will speed up the training
 
 ## License
-This repo is covered under the [https://github.com/ishan6899/generate_TV_Scripts/blob/master/LICENSE](MIT License)
+This repo is covered under the [MIT License](https://github.com/ishan6899/generate_TV_Scripts/blob/master/LICENSE)
